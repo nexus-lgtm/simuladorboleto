@@ -1,0 +1,7 @@
+{
+  "name": "Atualizador de Boletos Pro",
+  "description": "Uma ferramenta profissional para cálculo e atualização de boletos vencidos com scanner inteligente de IA para fotos e PDFs.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
